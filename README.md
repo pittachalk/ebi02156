@@ -2,6 +2,7 @@
 
 This repository contains my code submission for the EBI02156 vacancy.
 
+## Running the code
 To run the code, I recommend installing required dependencies with Anaconda / Miniconda using the provided `env.yml` file.
 ```sh
 # install environment
@@ -21,3 +22,5 @@ Alternatively, you can execute the notebook via the command line to produce the 
 jupyter nbconvert --to=html main.ipynb --output=main.html --output-dir=output/ --execute
 ```
 
+## Viewing results
+If you are interested in viewing the precompiled HTML and plots, see the [output](output/) subfolder.
