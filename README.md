@@ -18,6 +18,6 @@ jupyter notebook
 
 Alternatively, you can execute the notebook via the command line to produce the plots and a HTML file of the result. 
 ```sh
-jupyter nbconvert --to=html main.ipynb --output=main.html --output-dir=plots/ --execute
+jupyter nbconvert --to=html main.ipynb --output=main.html --output-dir=output/ --execute
 ```
 
