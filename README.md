@@ -24,3 +24,5 @@ jupyter nbconvert --to=html main.ipynb --output=main.html --output-dir=output/ -
 
 ## Viewing results
 If you are interested in viewing the precompiled HTML and plots, see the [output](output/) subfolder.
+
+If you are viewing on GitHub, it should render the Jupyter [notebook](main.ipynb) right in the browser.
